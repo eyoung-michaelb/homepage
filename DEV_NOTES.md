@@ -32,3 +32,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-04-22
 - Reviewed security headers configuration
 - Drafted initial implementation plan for v2
+
+## 2026-04-22
+- Reviewed security headers configuration
+- Noted known limitation in docs
