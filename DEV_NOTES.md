@@ -36,3 +36,8 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-04-22
 - Reviewed security headers configuration
 - Noted known limitation in docs
+
+## 2026-04-29
+- Reviewed security headers configuration
+- Removed unused variable declarations
+- Consolidated duplicate helper functions
